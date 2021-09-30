@@ -2,6 +2,8 @@
 
 	echo "Hello World";
 
-	phpinfo();
+	if (true) {
+		phpinfo();
+	}
 
 ?>
